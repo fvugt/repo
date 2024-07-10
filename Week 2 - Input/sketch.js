@@ -4,4 +4,5 @@ function setup() {
 
 function draw() {
   background(220);
+  text("Input!", 20,20);
 }
